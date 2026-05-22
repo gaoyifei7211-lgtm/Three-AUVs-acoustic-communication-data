@@ -25,6 +25,7 @@ A_send_B_rece_unsuc_pack_1.mat / A_send_C_rece_unsuc_pack_1.mat / B_send_A_rece_
 .mat data file has nine columns:
 
 | sending_time_unix | sending_position_N | sending_position_E | sending_position_D | receiving_position_N | receiving_position_E | receiving_position_D | distance | label |
+
 where distance is ground truth distance between sending and receiving AUV when event happens and label = 0 represents unsuccessful event
 
 
