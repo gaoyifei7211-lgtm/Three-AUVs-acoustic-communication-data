@@ -7,7 +7,9 @@ The .mat data is constructed as follows:
 For all AUVs positions, we use ECEF(Earth-Centered, Earth-Fixed) coordinates with WGS84 ellipsoid constants a = 6378137 and e = 8.1819190842622e-2
 
 X = ECEF X-coordinate(meters)
+
 Y = ECEF Y-coordinate(meters)
+
 Z = ECEF Z-coordinate(meters)
 
 # AUV A,B,C trajectories in ECEF
