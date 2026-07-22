@@ -57,8 +57,8 @@ markdown
     <td><img src="AUV_1_unsuc_gt.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center">Successful communications acquired by IMU</td>
-    <td align="center">Unsuccessful communications acquired by IMU</td>
+    <td align="center">AUV 1 successful communications acquired by IMU</td>
+    <td align="center">AUV 1 unsuccessful communications acquired by IMU</td>
   </tr>
 </table>
 
