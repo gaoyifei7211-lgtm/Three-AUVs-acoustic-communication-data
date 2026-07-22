@@ -62,5 +62,27 @@ markdown
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="AUV_2_suc_gt.png" width="100%"></td>
+    <td><img src="AUV_2_unsuc_gt.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">AUV 2 successful communications acquired by IMU</td>
+    <td align="center">AUV 2 unsuccessful communications acquired by IMU</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="AUV_3_suc_gt.png" width="100%"></td>
+    <td><img src="AUV_3_unsuc_gt.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">AUV 3 successful communications acquired by IMU</td>
+    <td align="center">AUV 3 unsuccessful communications acquired by IMU</td>
+  </tr>
+</table>
+
 
 
