@@ -38,6 +38,18 @@ A_send_B_rece_unsuc_pack_1.mat / A_send_C_rece_unsuc_pack_1.mat / B_send_A_rece_
 
 where distance(meters) is the ground truth distance between sending and receiving AUV when event happens and label = 0 represents unsuccessful event.
 
+Convert it to a Markdown table. Here's the equivalent for your README:
+
+markdown
+## AUV Communication Events Across Different Datasets
+
+| Dataset | Agent | Success. Events | Unsuccess. Events |
+|---------|:-----:|:---------------:|:-----------------:|
+| Chesapeake Bay | 1 | 265 | 110 |
+| Chesapeake Bay | 2 | 268 | 107 |
+| Chesapeake Bay | 3 | 230 | 145 |
+
+
 
 <table>
   <tr>
