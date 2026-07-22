@@ -39,4 +39,16 @@ A_send_B_rece_unsuc_pack_1.mat / A_send_C_rece_unsuc_pack_1.mat / B_send_A_rece_
 where distance(meters) is the ground truth distance between sending and receiving AUV when event happens and label = 0 represents unsuccessful event.
 
 
+<table>
+  <tr>
+    <td><img src="AUV_1_suc_gt.png" width="100%"></td>
+    <td><img src="AUV_1_unsuc_gt.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Successful communications acquired by IMU</td>
+    <td align="center">Unsuccessful communications acquired by IMU</td>
+  </tr>
+</table>
+
+
 
